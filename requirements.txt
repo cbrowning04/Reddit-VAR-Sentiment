@@ -1,0 +1,14 @@
+pandas
+praw
+networkx
+matplotlib
+seaborn
+ipython
+spacy
+spacytextblob
+geopandas
+plotly
+transformers
+tensorflow
+torch
+tf-keras
